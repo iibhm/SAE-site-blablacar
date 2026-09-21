@@ -15,3 +15,4 @@ RIEGERT—BUISARD Nathanael
 
 
 Partie 3 : Présentation du projet
+Notre projet consiste à créer un site web pour présenter l'entreprise 
