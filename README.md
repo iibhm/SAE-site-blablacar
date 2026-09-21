@@ -15,4 +15,5 @@ RIEGERT—BUISARD Nathanael
 
 
 Partie 3 : Présentation du projet
-Notre projet consiste à créer un site web pour présenter la société française de covoiturage Blablacar.
+Notre projet consiste à créer un site web pour présenter la société française de covoiturage Blablacar. Ce projet sera organisé en 5 pages :
+- Une page retracera l'histoire de Blablacar,de la transformation de l'idée d'un système de covoiturage à une société que l'on connaît actuellement.
