@@ -31,3 +31,64 @@ button {
 img{
   width: 99%;
 }
+
+.img_accueil {
+  position: relative;
+}
+
+/* Bottom right text */
+.texte_accueil {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 400%;
+}
+
+.texte_boutton_economie {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding-left: 50%;
+  padding-right: 50%;
+  font-size: 200%;
+}
+
+.texte_boutton_ecologie {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding-left: 50%;
+  padding-right: 50%;
+  font-size: 200%;
+}
+
+.texte_boutton_histoire {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding-left: 50%;
+  padding-right: 50%;
+  font-size: 200%;
+}
+
+.texte_boutton_organisation {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding-left: 50%;
+  padding-right: 50%;
+  font-size: 200%;
+}
+
