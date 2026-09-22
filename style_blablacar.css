@@ -92,3 +92,11 @@ img{
   font-size: 200%;
 }
 
+.histoire_titre {
+    text-decoration: underline;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family : sans-serif;
+    font-size: 100px;
+}
