@@ -99,5 +99,13 @@ img{
     display: flex;
     font-family : sans-serif;
     font-size: 100px;
-    color:rgb(23, 96, 125)
+}
+
+.histoire_sous_titre {
+   text-decoration: underline;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family : sans-serif;
+    font-size: 50px;
 }
