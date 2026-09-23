@@ -5,56 +5,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accueil</title>
     <link rel="stylesheet" media="screen" href="style_blablacar.css">
+    <link rel="icon" type="image/x-icon" href="Images/favicon.ico">
 </head>
 <body>
-     <header>
-        <a href="page_accueil.html"><img src="Images/logo.jpeg" alt="Logo de Blablacar" class="logo"></a>
-        <button class="button-economie"> L'économie</button>
-        <button class="button-ecologie"> L'écologie</button>
-        <button class="button-histoire"> L'histoire</button>
-        <button class="button-organisation"> L'organisation</button>
+    <header>
+        <a href="index.html"><img src="Images/logo.jpg" alt="Logo de Blablacar" class="logo"></a>
+        <button class="button-economie" onclick="window.location.href='index.html'"> L'économie</button>
+        <button class="button-ecologie"onclick="window.location.href='ecologie.html'"> L'écologie</button>
+        <button class="button-histoire" onclick="window.location.href='histoire.html'"> L'histoire</button>
+        <button class="button-organisation" onclick="window.location.href='organisation.html'"> L'organisation</button>
     </header> 
 
     <div class="img_accueil">
         <img src="Images/image_accueil.jpg" alt="Image représentant Blablacar">
         <div class="texte_accueil">
             <h1>Blablacar</h1>
-            <h2>Slogan</h2>
+            <h2>le ptit cul à Basile là</h2>
         </div>
     </div>
 
     <div class="economie">
-        <img src="Images/économie.jpg" alt="Image représentant Blablacar">
+        <a href="economie.html"><img src="Images/économie.jpg" alt="Image représentant Blablacar"></a>
         <div class="texte_boutton_economie">
             <h1>Economie</h1>
         </div>
     </div>
 
     <div class="ecologie">
-        <img src="Images/ecologie.jpg" alt="Image représentant Blablacar">
+        <a href="ecologie.html"><img src="Images/ecologie.jpg" alt="Image représentant Blablacar"></a>
         <div class="texte_boutton_ecologie">
             <h1>Ecologie</h1>
         </div>
     </div>
 
     <div class="histoire">
-        <img src="Images/histoire.jpg" alt="Image représentant Blablacar">
+        <a href="histoire.html"><img src="Images/histoire.jpg" alt="Image représentant Blablacar"></a>
         <div class="texte_boutton_histoire">
             <h1>Histoire</h1>
         </div>
     </div>
 
     <div class="organisation">
-        <img src="Images/organisation.jpg" alt="Image représentant Blablacar">
+        <a href="organisation.html"><img src="Images/organisation.jpg" alt="Image représentant Blablacar"></a>
         <div class="texte_boutton_organisation">
             <h1>Organisation</h1>
         </div>
     </div>
 
     <footer>
-        <a href="https://www.instagram.com/blablacarfr/"><img src="Images/instagram.png" alt="Logo d'Instagram"></a>
-        <a href="https://x.com/BlaBlaCar_FR"><img src="Images/x.png" alt="Logo d'X"></a>
-        <a href="https://blablacar.fr"><img src="Images/web.png" alt="Image représentant un site internet"></a>
+        <div class="insta">
+            <a href="https://www.instagram.com/blablacarfr/"><img src="Images/instagram.png" alt="Logo d'Instagram"></a>
+        </div>
+        <div class="X">
+            <a href="https://x.com/BlaBlaCar_FR"><img src="Images/x.png" alt="Logo d'X"></a>
+        </div>
+        <div class="site">
+            <a href="https://blablacar.fr"><img src="Images/web.png" alt="Image représentant un site internet"></a>
+        </div>
+        <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!4v1790155527064!6m8!1m7!1s4eVJnDcTMFdXNKEHnBReFA!2m2!1d48.86426477268049!2d2.379737408882444!3f18.01865974863571!4f32.87179329269742!5f0.4000000000000002" width="500" height="180px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+        </div>
     </footer>
 </body>
 </html>
