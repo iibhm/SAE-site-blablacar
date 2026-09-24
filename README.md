@@ -18,7 +18,6 @@ Nathanaël RIEGERT-BUISARD : [Nathanaël RIEGERT-BUISARD](mailto:nriegert@edu.un
 
 
 
-
 ## Présentation du projet
 Notre projet consiste à créer un site web pour présenter la société française de covoiturage Blablacar. Ce projet sera organisé en 5 pages :
 - Une page retrace l'histoire de Blablacar, de la transformation d'un concept de covoiturage à une société que l'on connaît actuellement.
