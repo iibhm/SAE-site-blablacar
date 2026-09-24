@@ -20,7 +20,11 @@ header img {
   float: left;
 }
 
-.index:hover{
+.button-accueil{
+  border-radius: 8px;
+}
+
+.button-accueil:hover{
   background-color: #005ec2;
 }
 
@@ -300,6 +304,11 @@ footer {
   margin-left: 120px;
 }
 
+.bloc_img2{
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
 .bloc_img2{
   display: flex;
   align-items: center;
