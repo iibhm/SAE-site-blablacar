@@ -310,6 +310,46 @@ footer {
   gap: 60px;
 }
 .bloc_img2{
+.ecologie_titre {
+    text-decoration: underline;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 70px;
+}
+
+.ecologie_sous_titre {
+    text-decoration: underline;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-indent: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.tableau_eco {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 70%;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.tableau_eco th, .tableau_eco td {
+    border: 1px solid #0071eb;
+    padding: 10px 15px;
+    text-align: left;
+}
+
+.tableau_eco th {
+    background-color: #0071eb;
+    color: white;
+}
   display: flex;
   align-items: center;
   gap: 60px;
