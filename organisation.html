@@ -3,81 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Organisation</title>
-    <link rel="stylesheet" media="screen" href="style_blablacar.css">
+    <title>Organisation - BlaBlaCar</title>
+    <link rel="stylesheet" media="screen" href="style_blablacar_2.css">
     <link rel="icon" type="image/x-icon" href="Images/favicon.ico">
 </head>
 <body>
-     <header>
-        <a href="index.html"><img src="Images/logo.jpg" alt="Logo de Blablacar" class="logo"></a>
-        <button class="button-accueil" onclick="window.location.href='index.html'"> Accueil </button>
-        <button class="button-economie" onclick="window.location.href='economie.html'"> L'économie</button>
-        <button class="button-ecologie" onclick="window.location.href='ecologie.html'"> L'écologie</button>
-        <button class="button-histoire" onclick="window.location.href='histoire.html'"> L'histoire</button>
-        
+    
+    <header class="sidebar">
+        <div class="logo-container">
+            <a href="index.html">
+                <img src="Images/logo.jpg" alt="Logo de Blablacar" class="logo">
+            </a>
+        </div>
+
+        <nav class="menu-vertical">
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="histoire.html">L'histoire</a></li>
+                <li><a href="organisation.html" class="active">L'organisation</a></li>
+                <li><a href="economie.html">L'économie</a></li>
+                <li><a href="ecologie.html">L'écologie</a></li>
+            </ul>
+        </nav>
     </header> 
 
-    <main>
-        <h1>L'organisation de BlaBlaCar</h1>
-
-        <section id="identite">
-            <h2>Fiche d'identité</h2>
-            <table>
-                <tr><th>Raison sociale</th><td>Comuto SA</td></tr>
-                <tr><th>Forme juridique</th><td>Société Anonyme (SA)</td></tr>
-                <tr><th>Date de création</th><td>2006</td></tr>
-                <tr><th>Siège social</th><td>84 avenue de la République, 75011 Paris</td></tr>
-                <tr><th>Effectif</th><td>~800 collaborateurs</td></tr>
-                <tr><th>Implantation</th><td>21 pays</td></tr>
-            </table>
-        </section>
-
-        <section id="direction">
-            <h2>Les fondateurs et la direction</h2>
-            <div class="fondateur">
-                <h3>Frédéric Mazzella</h3>
-                <p>Président-Fondateur</p>
+    <main class="page-zoning">
+        
+        <section class="zoning-bandeau">
+            <div class="zoning-titre">
+                <h1>L'organisation de BlaBlaCar</h1>
             </div>
-            <div class="fondateur">
-                <h3>Nicolas Brusson</h3>
-                <p>Co-fondateur et CEO</p>
-            </div>
-            <div class="fondateur">
-                <h3>Francis Nappez</h3>
-                <p>Co-fondateur et Conseiller Technique</p>
+            <div class="zoning-image-haut">
+                <img src="Images/organisation.jpg" alt="Locaux BlaBlaCar">
             </div>
         </section>
 
-        <section id="business-units">
-            <h2>Les Business Units</h2>
-            <ul>
-                <li><strong>Covoiturage Europe</strong> : cœur historique de l'activité</li>
-                <li><strong>Covoiturage & Bus hors Europe</strong> : Europe de l'Est et Amérique du Sud</li>
-                <li><strong>Train</strong> : distribution de billets de train</li>
-                <li><strong>BlaBlaCar Daily</strong> : covoiturage domicile-travail</li>
-            </ul>
+        <section class="zoning-bloc bloc-inverse">
+            <div class="zoning-image">
+                <img src="Images/image_accueil.jpg" alt="Illustration des équipes">
+            </div>
+            
+            <div class="zoning-texte">
+                <h2>Fiche d'identité</h2>
+                <table class="tableau_eco">
+                    <tr><th>Raison sociale</th><td>Comuto SA</td></tr>
+                    <tr><th>Forme juridique</th><td>Société Anonyme (SA)</td></tr>
+                    <tr><th>Date de création</th><td>2006</td></tr>
+                    <tr><th>Siège social</th><td>Paris (75011)</td></tr>
+                    <tr><th>Effectif</th><td>~800 collaborateurs</td></tr>
+                    <tr><th>Implantation</th><td>21 pays</td></tr>
+                </table>
+
+                <h3>Des effectifs multiculturels au service du monde</h3>
+                <p>Aujourd'hui, BlaBlaCar compte environ 800 collaborateurs (affectueusement appelés les <em>BlaBlaBlas</em> en interne). Véritable fleuron de la French Tech, l'entreprise a conservé son siège social à Paris, mais sa portée est mondiale.</p>
+                <p>La plateforme opère dans 21 pays, notamment en Europe de l'Est, au Brésil et en Inde. Pour gérer cette croissance, les effectifs sont extrêmement diversifiés avec plus de 50 nationalités représentées. La société s'appuie sur une forte autonomie laissée à ses équipes locales, qui adaptent la plateforme aux cultures de chaque pays.</p>
+            </div>
         </section>
 
-        <section id="effectifs">
-            <h2>Les effectifs</h2>
-            <p>~800 collaborateurs, 50+ nationalités, 5 bureaux internationaux</p>
+        <section class="zoning-bloc">
+            <div class="zoning-texte">
+                <h2>Les fondateurs et la direction</h2>
+                <div class="fondateur">
+                    <h3>Frédéric Mazzella</h3>
+                    <p>Président-Fondateur</p>
+                </div>
+                <div class="fondateur">
+                    <h3>Nicolas Brusson</h3>
+                    <p>Co-fondateur et CEO</p>
+                </div>
+                <div class="fondateur">
+                    <h3>Francis Nappez</h3>
+                    <p>Co-fondateur et Conseiller Technique</p>
+                </div>
+
+                <h3>Le trio fondateur : une direction complémentaire</h3>
+                <p>BlaBlaCar repose sur l'alliance de trois profils très complémentaires. Frédéric Mazzella est le visionnaire qui a eu l'idée du service fin 2003. Nicolas Brusson est le stratège financier qui a piloté l'expansion internationale. Enfin, Francis Nappez est l'architecte informatique qui a construit la plateforme.</p>
+                <p>Actuellement, l'entreprise est dirigée par un comité exécutif (Comex) collégial qui assure la gestion quotidienne.</p>
+            </div>
+            
+            <div class="zoning-graphique">
+                <!-- Espace réservé pour votre graphique (ex: organigramme) -->
+                <img src="Images/histoire.jpg" alt="Organigramme">
+                <p class="legende-graphique">Représentation graphique de l'organisation</p>
+            </div>
         </section>
 
-        <section id="mode-travail">
-            <h2>Le mode de travail</h2>
-            <ul>
-                <li>Autonomie des équipes locales</li>
-                <li>~30% en full remote</li>
-                <li>Comex collégial</li>
-            </ul>
+        <section class="zoning-bloc-large">
+            <div class="zoning-texte-large">
+                <h2>Les Business Units & Le mode de travail</h2>
+                
+                <h3>De l'application de covoiturage à l'application multimodale</h3>
+                <p>Pour structurer son développement, l'organisation de BlaBlaCar est divisée en plusieurs pôles d'activité. Le <em>Covoiturage Europe</em> reste le cœur historique. Cependant, pour diversifier ses revenus, l'entreprise a créé <em>BlaBlaCar Daily</em> (dédié aux trajets domicile-travail) et a intégré les réseaux de bus (rachat de Ouibus) ainsi que la distribution de billets de train.</p>
+
+                <h3>Une organisation du travail flexible et "Agile"</h3>
+                <p>BlaBlaCar s'inspire du modèle d'organisation dit "Agile", où les équipes techniques sont divisées en petites "squads" autonomes travaillant sur des fonctionnalités précises.</p>
+                <p>Depuis la crise sanitaire, l'entreprise a lancé le programme <em>BlaBlaNomad</em> : elle autorise le télétravail total pour environ 30 % de ses postes techniques, ce qui lui permet d'attirer les meilleurs talents informatiques partout en France et en Europe.</p>
+            </div>
         </section>
+
     </main>
 
     <footer>
         <a href="https://www.instagram.com/blablacarfr/"><img src="Images/instagram.png" alt="Logo d'Instagram"></a>
         <a href="https://x.com/BlaBlaCar_FR"><img src="Images/x.png" alt="Logo d'X"></a>
         <a href="https://blablacar.fr"><img src="Images/web.png" alt="Image représentant un site internet"></a>
-        Page réalisée par ibrahim (contributeur : iibhm et Larcasa)
+        <br>
+        Page réalisée par ibrahim (contributeurs : iibhm et Larcasa)
     </footer>
+
 </body>
 </html>
