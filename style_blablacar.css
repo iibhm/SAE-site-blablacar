@@ -320,6 +320,7 @@ footer {
 }
 
 .ecologie_sous_titre {
+    text-align: justify;
     text-decoration: underline;
     justify-content: center;
     align-items: center;
@@ -333,6 +334,7 @@ footer {
 }
 
 .tableau_eco {
+    text-align: justify;
     margin: 30px auto;
     border-collapse: collapse;
     width: 70%;
@@ -341,6 +343,7 @@ footer {
 }
 
 .tableau_eco th, .tableau_eco td {
+    text-align: justify;
     border: 1px solid #0071eb;
     padding: 10px 15px;
     text-align: left;
