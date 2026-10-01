@@ -205,6 +205,7 @@ footer {
   height : 200px;
   display: block;
   margin: auto;
+  mix-blend-mode: multiply;
 }
 
 .paragraphe1{
@@ -290,6 +291,7 @@ footer {
   width: 300px;
   height: 300px;
   margin-left: 220px;
+  mix-blend-mode: multiply;
 }
 
 .bloc_graph{
@@ -313,6 +315,7 @@ footer {
   width: 500px;
   height: 300px;
   margin-left: 120px;
+  mix-blend-mode: multiply;
 }
 
 .bloc_img2{
