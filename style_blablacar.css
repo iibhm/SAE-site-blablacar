@@ -228,6 +228,8 @@ footer {
   margin-right: 120px;
   text-indent: 40px;
   font-size: 20px;
+  background-color: rgb(90, 149, 204);
+  border-radius: 14px;
 }
 
 .paragraphe3{
@@ -237,6 +239,8 @@ footer {
   margin-left: 120px;
   text-indent: 40px;
   font-size: 20px;
+  background-color: rgb(90, 149, 204);
+  border-radius: 14px;
 }
 
 .paragraphe4{
@@ -247,6 +251,8 @@ footer {
   margin-right: 120px;
   text-indent: 40px;
   font-size: 20px;
+  background-color: rgb(90, 149, 204);
+  border-radius: 14px;
 }
 
 .paragraphe5{
@@ -256,6 +262,8 @@ footer {
   margin-left: 120px;
   text-indent: 40px;
   font-size: 20px;
+  background-color: rgb(90, 149, 204);
+  border-radius: 14px;
 }
 
 .paragraphe_conc{
@@ -265,6 +273,8 @@ footer {
   margin: 50px auto;
   text-indent: 40px;
   font-size: 20px;
+  background-color: rgb(90, 149, 204);
+  border-radius: 14px;
 }
 
 .temporaire{
