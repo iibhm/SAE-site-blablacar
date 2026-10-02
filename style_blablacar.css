@@ -216,6 +216,8 @@ footer {
   margin-left: 120px;
   text-indent: 40px;
   font-size: 20px;
+  background-color: rgb(90, 149, 204);
+  border-radius: 14px;
 }
 
 .paragraphe2{
