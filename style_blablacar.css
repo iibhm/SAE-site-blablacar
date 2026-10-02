@@ -151,7 +151,8 @@ img{
 footer {
   z-index: 999;
   bottom: 0;
-  padding: 10px 16px;
+  padding-top: 10px;
+  padding-bottom: 16px;
   background: #0071eb;
   color: #f1f1f1;
   font-family: sans-serif;
