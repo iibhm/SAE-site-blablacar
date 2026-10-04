@@ -1,6 +1,7 @@
 html, body{
   padding:0;
   margin:0;
+  margin-left :100px;
 }
 
 header {
@@ -405,3 +406,172 @@ footer {
   font-size: 50px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+
+
+/*ibrahim*/
+.page-zoning {
+  width: 100%;
+  background-color: #051315;
+  color: white;
+  font-family: sans-serif;
+  padding-bottom: 10px;
+}
+
+.zoning-bandeau {
+  position: relative; 
+  width: 100%;
+  height: 800px; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  overflow: hidden; 
+  margin-bottom: 80px; 
+}
+
+.zoning-image-haut {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; 
+}
+
+.zoning-image-haut img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  filter: brightness(0.4); 
+}
+
+.zoning-titre {
+  position: relative;
+  z-index: 2; 
+  text-align: center;
+}
+
+.zoning-titre h1 {
+  font-size: 70px;
+  margin: 0;
+  letter-spacing: 5px;
+  text-shadow: 0 4px 15px rgba(0, 0, 0, 0.8); 
+}
+
+.bloc-inverse {
+  max-width: 1500px; 
+  margin: 0 auto; 
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  z-index: 10; 
+}
+
+.bloc-inverse .zoning-image {
+  width: 45%;
+  margin-top: 200px; 
+}
+
+.bloc-inverse .zoning-image img {
+  width: 110%;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5); 
+}
+
+.bloc-inverse .zoning-texte {
+  width: 55%;
+  margin-top: -160px; 
+  margin-left: -5%;   
+  position: relative;
+  z-index: 15; 
+  background: rgba(16, 53, 59, 0.85); 
+  backdrop-filter: blur(12px); 
+  border: 1px solid rgba(255, 255, 255, 0.15); 
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 20px rgba(15, 89, 94, 0.5); 
+}
+
+.bloc-inverse .zoning-texte h2, 
+.bloc-inverse .zoning-texte h3 {
+  color: #ffffff;
+  margin-top: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.bloc-inverse table.tableau_eco {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 25px;
+}
+
+.bloc-inverse table.tableau_eco th, 
+.bloc-inverse table.tableau_eco td {
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); 
+  padding: 12px 5px;
+  background: transparent; 
+  color: white;
+}
+
+.bloc-inverse table.tableau_eco th {
+  color: #a3d9d6; 
+  width: 35%; 
+}
+
+.zoning-bloc-large {
+  max-width: 1000px; 
+  margin: 0 auto; 
+  margin-top: -150px; 
+  position: relative;
+  z-index: 20; 
+  background: rgba(16, 53, 59, 0.85); 
+  backdrop-filter: blur(12px); 
+  border: 1px solid rgba(255, 255, 255, 0.15); 
+  border-radius: 20px;
+  padding: 50px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 20px rgba(15, 89, 94, 0.5);
+  color: white;
+  text-align: center; 
+}
+
+.zoning-bloc-large h2 {
+  font-size: 35px;
+  margin-top: 0;
+  color: #ffffff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+}
+
+.zoning-bloc-large h3 {
+  font-size: 24px;
+  color: #a3d9d6; 
+}
+
+.zoning-bloc{
+  display: flex;
+  position: relative;
+}
+
+.zoning-texte {
+  background: rgba(16, 53, 59, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 20px rgba(15, 89, 94, 0.5);
+  max-width: 700px;
+  padding: 50px;
+  margin-right: 300px;
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-bottom: 80px;
+  border-radius: 20px;
+}
+
+.zoning-graphique {
+  margin-top: 120px;
+  size : 90%;
+}
+
+/*ibrahim*/
