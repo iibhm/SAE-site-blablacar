@@ -512,14 +512,14 @@ ogie_titre {
   margin-bottom: 20px;
 }
 
-.bloc-inverse table.tableau_eco {
+table.tableau_eco {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 25px;
 }
 
-.bloc-inverse table.tableau_eco th, 
-.bloc-inverse table.tableau_eco td {
+table.tableau_eco th, 
+table.tableau_eco td,{
   border: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1); 
   padding: 12px 5px;
@@ -527,7 +527,7 @@ ogie_titre {
   color: white;
 }
 
-.bloc-inverse table.tableau_eco th {
+.table.tableau_eco th {
   color: #a3d9d6; 
   width: 35%; 
 }
