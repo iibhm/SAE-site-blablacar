@@ -337,8 +337,19 @@ footer {
   align-items: center;
   gap: 60px;
 }
-
-.ecologie_titre {
+/*basile*/
+{
+.bloc_imgb1{
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+.bloc_imgb2{
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+ogie_titre {
     text-decoration: underline;
     justify-content: center;
     align-items: center;
