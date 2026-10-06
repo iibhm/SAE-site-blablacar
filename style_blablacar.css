@@ -1,7 +1,7 @@
 html, body{
   padding:0;
   margin:0;
-  margin-left :100px;
+  margin-left :110px;
 }
 
 .sidebar {
@@ -337,13 +337,13 @@ footer {
   gap: 60px;
 }
 /*basile*/
-{
+
 .bloc_imgb1{
   display: flex;
   align-items: center;
   gap: 60px;
 }
-{
+
 .bloc_imgb2{
   display: flex;
   align-items: center;
@@ -422,7 +422,7 @@ ogie_titre {
 /*ibrahim*/
 .page-zoning {
   width: 100%;
-  background-color: #051315;
+  background-color: #081d20;
   color: white;
   font-family: sans-serif;
   padding-bottom: 10px;
