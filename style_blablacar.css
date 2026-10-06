@@ -4,61 +4,60 @@ html, body{
   margin-left :100px;
 }
 
-header {
-  position: sticky;
+.sidebar {
+  position: fixed;
   z-index: 999;
   top: 0;
-  padding: 10px 16px;
+  left: 0;
+  width: 200px;
+  height: 100vh;
+  padding: 25px 15px;
   background: #0071eb;
   color: #f1f1f1;
-  font-family: sans-serif;
-  height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
 }
 
-header img {
-  width: 60px;
-  margin-right: 60px;
-  float: left;
-}
-
-.button-accueil{
+.logo-container img {
+  width: 80px;
+  margin: 0 0 25px 0;
   border-radius: 8px;
 }
 
-.button-accueil:hover{
-  background-color: #005ec2;
+.menu-vertical {
+  width: 100%;
 }
 
-.button-economie{
+.menu-vertical ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.menu-vertical li {
+  margin: 0;
+}
+
+.menu-vertical a {
+  display: block;
+  width: 100%;
+  padding: 12px 15px;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 18px;
   border-radius: 8px;
+  transition: background-color 0.2s ease;
 }
 
-.button-economie:hover{
+.menu-vertical a:hover,
+.menu-vertical a.active {
   background-color: #005ec2;
-}
-
-.button-ecologie{
-  border-radius: 8px;
-}
-
-.button-ecologie:hover{
-  background-color: #005ec2;
-}
-
-.button-histoire{
-  border-radius: 8px;
-}
-
-.button-histoire:hover{
-  background-color: #005ec2;
-}
-
-.button-organisation{
-  border-radius: 8px;
-}
-
-.button-organisation:hover{
-  background-color: #005ec2;
+  font-weight: bold;
 }
 
 
