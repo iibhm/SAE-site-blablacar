@@ -8,13 +8,22 @@
     <link rel="icon" type="image/x-icon" href="Images/favicon.ico">
 </head>
 <body>
-    <header>
-        <a href="index.html"><img src="Images/logo.jpg" alt="Logo de Blablacar" class="logo"></a>
-        <button class="button-economie" onclick="window.location.href='economie.html'"> L'économie</button>
-        <button class="button-ecologie" onclick="window.location.href='ecologie.html'"> L'écologie</button>
-        <button class="button-histoire" onclick="window.location.href='histoire.html'"> L'histoire</button>
-        <button class="button-organisation" onclick="window.location.href='organisation.html'"> L'organisation</button>
-    </header> 
+    <header class="sidebar">
+        <div class="logo-container">
+            <a href="index.html">
+                <img src="Images/logo.jpg" alt="Logo de Blablacar" class="logo">
+            </a>
+        </div>
+        <nav class="menu-vertical">
+            <ul>
+                <li><a href="index.html" class="active">Accueil</a></li>
+                <li><a href="histoire.html">L'histoire</a></li>
+                <li><a href="organisation.html">L'organisation</a></li>
+                <li><a href="economie.html">L'économie</a></li>
+                <li><a href="ecologie.html">L'écologie</a></li>
+            </ul>
+        </nav>
+    </header>
 
     <div class="img_accueil">
         <img src="Images/image_accueil.jpg" alt="Image représentant Blablacar">
