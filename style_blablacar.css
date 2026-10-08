@@ -170,14 +170,6 @@ footer {
     display: inline;
   }
 
-.img_frise{
-  width : 80%;
-  height : 650px;
-  display: block;
-  margin: auto;
-  mix-blend-mode: multiply;
-}
-
 .paragraphe1{
   text-align: justify;
   max-width: 500px;
