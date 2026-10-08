@@ -535,3 +535,9 @@ bloc-inverse .table.tableau_eco th {
 .histoire .zoning-bandeau {
     height: 600px;
 }
+
+.histoire .zoning-image-haut img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
