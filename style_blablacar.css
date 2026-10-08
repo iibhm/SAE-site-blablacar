@@ -593,3 +593,8 @@ bloc-inverse .table.tableau_eco th {
 }
 
 /*ibrahim*/
+
+.zoning-image-haut img.img_frise {
+  filter: brightness(1);
+  object-fit: contain; 
+}
