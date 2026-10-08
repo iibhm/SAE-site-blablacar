@@ -598,3 +598,71 @@ bloc-inverse .table.tableau_eco th {
   filter: brightness(1);
   object-fit: contain; 
 }
+.bloc1 {
+    margin-left: 50%;
+    width: 39%;
+}
+
+.bloc2 {
+    margin-left: 8%;
+    width: 39%;
+}
+
+.bloc3 {
+    margin-left: 8%;
+    width: 39%;
+}
+
+.bloc4 {
+    margin-left: 50%;
+    width: 39%;
+}
+
+.bloc5 {
+    margin-left: 50%;
+    width: 39%;
+}
+
+.bloc6 {
+    margin-left: 8%;
+    width: 39%;
+}
+
+.img_covoit {
+    width: 35%;
+    margin-left: 8%;
+    margin-top: -5%;
+    margin-bottom: -5%;
+}
+
+.img_covoit img {
+    border-radius: 50px;
+}
+
+.img_graph {
+    width: 35%;
+    height: 35%;
+    margin-left: 55%;
+    margin-top: -7%;
+    margin-bottom: -7%;
+}
+
+.img_carte {
+    width: 35%;
+    margin-left: 8%;
+    margin-top: -7%;
+    margin-bottom: -7%;
+    border-radius: 20px;
+}
+
+.img_graph img {
+    border-radius: 50px;
+}
+
+.img_carte img {
+    border-radius: 50px;
+}
+
+.histoire_sous_titre{
+  margin-left: 50%;
+}
