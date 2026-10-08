@@ -170,74 +170,6 @@ footer {
     display: inline;
   }
 
-.paragraphe1{
-  text-align: justify;
-  max-width: 500px;
-  line-height: 1.3;
-  margin-left: 120px;
-  text-indent: 40px;
-  font-size: 20px;
-  background-color: rgb(90, 149, 204);
-  border-radius: 14px;
-}
-
-.paragraphe2{
-  text-align: justify;
-  max-width: 500px;
-  line-height: 1.3;
-  margin-left: auto;
-  margin-right: 120px;
-  text-indent: 40px;
-  font-size: 20px;
-  background-color: rgb(90, 149, 204);
-  border-radius: 14px;
-}
-
-.paragraphe3{
-  text-align: justify;
-  max-width: 500px;
-  line-height: 1.3;
-  margin-left: 120px;
-  text-indent: 40px;
-  font-size: 20px;
-  background-color: rgb(90, 149, 204);
-  border-radius: 14px;
-}
-
-.paragraphe4{
-  text-align: justify;
-  max-width: 500px;
-  line-height: 1.3;
-  margin-left: auto;
-  margin-right: 120px;
-  text-indent: 40px;
-  font-size: 20px;
-  background-color: rgb(90, 149, 204);
-  border-radius: 14px;
-}
-
-.paragraphe5{
-  text-align: justify;
-  max-width: 500px;
-  line-height: 1.3;
-  margin-left: 120px;
-  text-indent: 40px;
-  font-size: 20px;
-  background-color: rgb(90, 149, 204);
-  border-radius: 14px;
-}
-
-.paragraphe_conc{
-  text-align: justify;
-  max-width: 600px;
-  line-height: 1.3;
-  margin: 50px auto;
-  text-indent: 40px;
-  font-size: 20px;
-  background-color: rgb(90, 149, 204);
-  border-radius: 14px;
-}
-
 .temporaire{
   margin-left: 15px;
 }
@@ -261,42 +193,6 @@ footer {
     display: block;
 }
 
-.img_covoit{
-  width: 300px;
-  height: 300px;
-  margin-left: 220px;
-  mix-blend-mode: multiply;
-}
-
-.bloc_graph{
-  display: flex;
-  align-items: center;
-  gap: 150px;
-}
-.img_graph{
-  width: 500px;
-  height: 300px;
-  margin-left: 530px;
-} 
-
-.bloc_img1{
-  display: flex;
-  align-items: center;
-  gap: 150px;
-}
-
-.img_carte{
-  width: 500px;
-  height: 300px;
-  margin-left: 120px;
-  mix-blend-mode: multiply;
-}
-
-.bloc_img2{
-  display: flex;
-  align-items: center;
-  gap: 60px;
-}
 /*basile*/
 
 .bloc_imgb1{
@@ -353,6 +249,7 @@ ogie_titre {
     background-color: #0071eb;
     color: white;
 }
+
 .Intro{
   text-align: justify;
   line-height: 1.3;
@@ -499,9 +396,7 @@ bloc-inverse .table.tableau_eco th {
 
 .zoning-bloc-large {
   max-width: 900px; 
-  margin: 0 auto; 
-  margin-top: -80px; 
-  margin-right: 200px;
+  margin: 50px auto; 
   position: relative;
   z-index: 20; 
   background: rgba(16, 53, 59, 0.85); 
@@ -598,6 +493,7 @@ bloc-inverse .table.tableau_eco th {
 
 .img_covoit img {
     border-radius: 50px;
+    width: 80%;
 }
 
 .img_graph {
