@@ -531,3 +531,7 @@ bloc-inverse .table.tableau_eco th {
     margin-right: 2%;
     text-align: center;
 }
+
+.histoire .zoning-bandeau {
+    height: 600px;
+}
