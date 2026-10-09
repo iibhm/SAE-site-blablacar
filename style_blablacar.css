@@ -337,7 +337,8 @@ footer img {
 
 .zoning-bloc-large_1 {
   max-width: 900px; 
-  margin: 50px auto; 
+  margin-top: 50px; 
+  margin-bottom: 50px;
   position: relative;
   z-index: 20; 
   background: rgba(16, 53, 59, 0.85); 
