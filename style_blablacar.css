@@ -149,6 +149,14 @@ footer img {
   height: auto;
 }
 
+@keyframes autoScroll {
+  0%, 20% { transform: translateX(0); }
+  25%, 45% { transform: translateX(-20%); }
+  50%, 70% { transform: translateX(-40%); }
+  75%, 95% { transform: translateX(-60%); }
+  100% { transform: translateX(-80%); }
+}
+
 .page-zoning {
   width: 100%;
   background-color: #051315;
