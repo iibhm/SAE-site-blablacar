@@ -1,19 +1,22 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BlaBlaCar</title>
+    <title>Accueil</title>
     <link rel="stylesheet" media="screen" href="style_blablacar.css">
     <link rel="icon" type="image/x-icon" href="Images/favicon.ico">
 </head>
+
 <body>
-    <header class="sidebar">
+   <header class="sidebar">
         <div class="logo-container">
             <a href="index.html">
                 <img src="Images/logo.jpg" alt="Logo de Blablacar" class="logo">
             </a>
         </div>
+
         <nav class="menu-vertical">
             <ul>
                 <li><a href="index.html" class="active">Accueil</a></li>
@@ -29,36 +32,51 @@
         <img src="Images/image_accueil.jpg" alt="Image représentant Blablacar">
         <div class="texte_accueil">
             <h1>Blablacar</h1>
-            <h2>Connecter les routes,</h2>
-            <h2>Partager les coûts.</h2>
+            <h2>Partager les coûts type shi</h2>
         </div>
     </div>
 
-    <div class="economie">
-        <a href="economie.html"><img src="Images/économie.jpg" alt="Image représentant Blablacar"></a>
-        <div class="texte_boutton_economie">
-            <h1>Economie</h1>
-        </div>
+    <div class="carousel-container">
+    <div class="carousel-wrapper">
+        <div class="slide"><img src="Images/économie.jpg" alt="Image Economie"></div>
+        <div class="slide"><img src="Images/organisation.jpg" alt="Image Organisation"></div>
+        <div class="slide"><img src="Images/histoire.jpg" alt="Image Histoire"></div>
+        <div class="slide"><img src="Images/ecologie.jpg" alt ="Image Ecologie"></div>
+        <!-- On répète la première image à la fin pour une transition fluide en boucle -->
+        <div class="slide"><img src="Images/économie.jpg" alt="Image Economie"></div>
     </div>
-
-    <div class="ecologie">
-        <a href="ecologie.html"><img src="Images/ecologie.jpg" alt="Image représentant Blablacar"></a>
-        <div class="texte_boutton_ecologie">
-            <h1>Ecologie</h1>
-        </div>
     </div>
+    <br>
 
-    <div class="histoire">
-        <a href="histoire.html"><img src="Images/histoire.jpg" alt="Image représentant Blablacar"></a>
-        <div class="texte_boutton_histoire">
-            <h1>Histoire</h1>
+    <div class="boutons-menu">
+        <div class="economie">
+            <a href="economie.html">
+                <img src="Images/économie.jpg" alt="Image représentant Blablacar">
+            </a>
+            <div class="texte_boutton_economie">
+                <h1>Economie</h1>
+            </div>
         </div>
-    </div>
 
-    <div class="organisation">
-        <a href="organisation.html"><img src="Images/organisation.jpg" alt="Image représentant Blablacar"></a>
-        <div class="texte_boutton_organisation">
-            <h1>Organisation</h1>
+        <div class="ecologie">
+            <a href="ecologie.html"><img src="Images/ecologie.jpg" alt="Image représentant Blablacar"></a>
+            <div class="texte_boutton_ecologie">
+                <h1>Ecologie</h1>
+            </div>
+        </div>
+
+        <div class="histoire">
+            <a href="histoire.html"><img src="Images/histoire.jpg" alt="Image représentant Blablacar"></a>
+            <div class="texte_boutton_histoire">
+                <h1>Histoire</h1>
+            </div>
+        </div>
+
+        <div class="organisation">
+            <a href="organisation.html"><img src="Images/organisation.jpg" alt="Image représentant Blablacar"></a>
+            <div class="texte_boutton_organisation">
+                <h1>Organisation</h1>
+            </div>
         </div>
     </div>
 
@@ -74,4 +92,5 @@
         </div>
     </footer>
 </body>
+
 </html>
