@@ -332,3 +332,18 @@ footer img {
   text-align: center;
   padding: 40px 0;
 }
+
+.zoning-bloc-large_1 {
+  max-width: 900px; 
+  margin: 50px auto; 
+  position: relative;
+  z-index: 20; 
+  background: rgba(16, 53, 59, 0.85); 
+  backdrop-filter: blur(12px); 
+  border: 1px solid rgba(255, 255, 255, 0.15); 
+  border-radius: 20px;
+  padding: 50px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 20px rgba(15, 89, 94, 0.5);
+  color: white;
+  text-align: center; 
+}
