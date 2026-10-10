@@ -165,12 +165,13 @@ ou
 - SAOULI Ibrahim
 - RIEGERT-BUISARD Nathanael 
 
-### Développement site
+### Développement site + Depot
 
 - TOURNIER Quentin
   - Page d’accueil
   - page css
   - style tile, wireframe et zoning
+  - Depot des différents travaux
 - VOVILIER Sevan
   - Page histoire
   - README
