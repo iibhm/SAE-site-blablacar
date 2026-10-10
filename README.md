@@ -23,6 +23,38 @@ Notre projet consiste à créer un site web pour présenter la société frança
 - Une page présentera les bienfaits écologiques contenant les bilans carbone des années précédentes et les stratégies de décarbonisation. D'autres bénéfices y seront exposés.
 - Une page présentera le chiffre d'affaires de BlaBlaCar ainsi que les stratégies que l'entreprise utilise pour faire augmenter ses bénéfices.
 
+## Entrevue Projet
+### Arborescence
+SAE-site-blablacar/
+├── README.md
+├── index.html
+├── histoire.html
+├── organisation.html
+├── economie.html
+├── ecologie.html
+├── style_blablacar.css
+├──Images/
+    ├── logo.png
+    ├── frise1.jpeg
+    ├── covoit.jpeg
+    ├── graphique.jpg
+    ├── carte_bbc.png
+    ├── instagram.png
+    ├── x.png
+    ├── CO2.jpg
+    ├── Graphique CA.png
+    ├── ecologie.jpg
+    ├── favico.ico
+    ├── histoire.jpg
+    ├── image_accueil.jpg
+    ├── image_centrale_economie.jpg
+    ├── organsisation.png
+    ├── economie.jpg
+    └── web.png
+└── doc/
+    ├──histoire_eco_concept_sevan.png
+    ├──histoire_validator_w3_sevan.png
+    
 ## Développement Site Web et Validation des pages
 
 ### Page d'accueil
