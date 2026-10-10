@@ -25,6 +25,8 @@ Notre projet consiste à créer un site web pour présenter la société frança
 
 ## Entrevue Projet
 ### Arborescence
+
+```text
 SAE-site-blablacar/
 ├── README.md
 ├── index.html
@@ -54,7 +56,7 @@ SAE-site-blablacar/
 └── doc/
     ├──histoire_eco_concept_sevan.png
     ├──histoire_validator_w3_sevan.png
-    
+```
 ## Développement Site Web et Validation des pages
 
 ### Page d'accueil
