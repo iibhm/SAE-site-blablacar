@@ -179,8 +179,8 @@ ou
   - livrable 2
   - questionnaire 1
   - questionnaire 2
-  - page css
-  - représentations graphique : frise, carte et graphique
+  - page CSS
+  - représentations graphiques : frise, carte et graphique
 - DISPOT Basile
   - Page Écologie
   - Planning
