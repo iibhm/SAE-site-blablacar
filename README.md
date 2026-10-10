@@ -27,7 +27,42 @@ Notre projet consiste à créer un site web pour présenter la société frança
 
 ### Page d'accueil
 
-**Auteur : Nom Prénom**  
+**Auteur : TOURNIER Quentin**  
+
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+
+
+<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+
+
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/capture_1_ecoconcept.png)
+
+ou 
+
+<img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
+
+<!--  style="width=400px" ne fonctionne pas -->
+
+### Présentation générale
+
+### Page Histoire
+
+**Auteur : VOVILIER Sevan**  
+
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Fhistoire.html)
+
+<br>
+<img src="doc/histoire_validator_w3_sevan.png" width="400px" alt="capture ecran sur Validator W3C">
+
+<br>
+<img src="doc/histoire_eco_concept_sevan.png" width="400px" alt="Capture ecran sur ecoconcept">
+
+### Page Écologie
+
+**Auteur : DISPOT Basile**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
@@ -45,21 +80,46 @@ ou
 
 <img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
-<!--  style="width=400px" ne fonctionne pas -->
+### Page Organisation
 
-### Présentation générale
+**Auteur : SAOULI Ibrahim**  
 
-### Page Histoire
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
-**Auteur : Vovilier Sevan**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Fhistoire.html)
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
-<br>
-<img src="doc/histoire_validator_w3_sevan.png" width="400px" alt="capture ecran sur Validator W3C">
+ou 
 
-<br>
-<img src="doc/histoire_eco_concept_sevan.png" width="400px" alt="Capture ecran sur ecoconcept">
+<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+
+
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/capture_1_ecoconcept.png)
+
+ou 
+
+<img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
+
+
+### Page Économie
+
+**Auteur : RIEGERT-BUISARD Nathanael**  
+
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+
+ou 
+
+<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+
+
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/capture_1_ecoconcept.png)
+
+ou 
+
+<img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
 ## Répartition du travail
 
@@ -77,6 +137,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 - TOURNIER Quentin
   - Page d’accueil
   - page css
+  - style tile, wireframe et zoning
 - VOVILIER Sevan
   - Page histoire
   - README
@@ -91,10 +152,12 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
   - Planning
   - Rétro-planning
   - page css
+  - wireframe et zoning
 - SAOULI Ibrahim
   - Page organisation
   - Création Git Hub, Git Lab et Git Bucket
   - page css
+  - wireframe et zoning
 - RIEGERT-BUISARD Nathanael
   - Page Économie
   - Planning
