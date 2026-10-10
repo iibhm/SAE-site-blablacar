@@ -56,7 +56,7 @@ ou
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Fhistoire.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="doc/histoire_validator_w3_sevan.png" width="400px" alt="capture ecran sur Validator W3C">
 
 <br>
 <img src="doc/histoire_eco_concept_sevan.png" width="400px" alt="Capture ecran sur ecoconcept">
