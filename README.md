@@ -69,20 +69,32 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Recherches d'informations
 
-- Nom Prénom
-- Nom Prénom
+- TOURNIER Quentin
+- VOVILIER Sevan
+- DISPOT Basile
+- SAOULI Ibrahim
+- RIEGERT-BUISARD Nathanael 
 
 
 ### Développement site
 
-- Nom Prénom
+- TOURNIER Quentin
   - Page d’accueil
-  - "Template" de page (Navbar/Footer)
-  - Page présentation
-- Nom Prénom
+- VOVILIER Sevan
   - Page histoire
-- Nom Prénom
+  - README
+  - livrable 1
+  - livrable 2
+  - questionnaire 1
+  - questionnaire 2
+  - représentations graphique : frise, carte et graphique
+- DISPOT Basile
+  - Page Écologie
+- SAOULI Ibrahim
   - Page organisation
+  - Création Git Hub, Git Lab et Git Bucket
+- RIEGERT-BUISARD Nathanael
+  - Page Économie
 
 
 ## Contributeurs
