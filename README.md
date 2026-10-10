@@ -53,7 +53,7 @@ ou
 
 **Auteur : Vovilier Sevan**  
 
-Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Fhistoire.html])
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Fhistoire.html)
 
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
