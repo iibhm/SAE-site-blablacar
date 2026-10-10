@@ -131,7 +131,6 @@ ou
 - SAOULI Ibrahim
 - RIEGERT-BUISARD Nathanael 
 
-
 ### Développement site
 
 - TOURNIER Quentin
