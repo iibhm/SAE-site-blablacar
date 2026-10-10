@@ -63,10 +63,6 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ## Répartition du travail
 
-### Planification - Diagramme de GANTT
-
-- Nom Prénom
-
 ### Recherches d'informations
 
 - TOURNIER Quentin
@@ -80,6 +76,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 - TOURNIER Quentin
   - Page d’accueil
+  - page css
 - VOVILIER Sevan
   - Page histoire
   - README
@@ -87,14 +84,21 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
   - livrable 2
   - questionnaire 1
   - questionnaire 2
+  - page css
   - représentations graphique : frise, carte et graphique
 - DISPOT Basile
   - Page Écologie
+  - Planning
+  - Rétro-planning
+  - page css
 - SAOULI Ibrahim
   - Page organisation
   - Création Git Hub, Git Lab et Git Bucket
+  - page css
 - RIEGERT-BUISARD Nathanael
   - Page Économie
+  - Planning
+  - page css
 
 
 ## Contributeurs
