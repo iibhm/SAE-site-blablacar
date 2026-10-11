@@ -181,13 +181,13 @@ ou
   - questionnaire 1
   - questionnaire 2
   - page CSS
+  - wireframe et zoning
   - représentations graphiques : frise, carte et graphique
 - DISPOT Basile
   - Page Écologie
   - Planning
   - Rétro-planning
   - page css
-  - wireframe et zoning
 - SAOULI Ibrahim
   - Page organisation
   - Création Git Hub, Git Lab et Git Bucket
