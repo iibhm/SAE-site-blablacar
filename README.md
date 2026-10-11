@@ -183,6 +183,7 @@ ou
   - page CSS
   - wireframe et zoning
   - représentations graphiques : frise, carte et graphique
+  - Arborescence
 - DISPOT Basile
   - Page Écologie
   - Planning
@@ -190,7 +191,7 @@ ou
   - page css
 - SAOULI Ibrahim
   - Page organisation
-  - Création Git Hub, Git Lab et Git Bucket
+  - Création Git Hub, Git Lab et Bit Bucket
   - questionnaire 1
   - questionnaire 2
   - livrable 2
