@@ -171,6 +171,7 @@ ou
   - Page d’accueil
   - page css
   - style tile, wireframe et zoning
+  - questionnaire 2
   - Depot des différents travaux
 - VOVILIER Sevan
   - Page histoire
@@ -190,12 +191,17 @@ ou
 - SAOULI Ibrahim
   - Page organisation
   - Création Git Hub, Git Lab et Git Bucket
+  - questionnaire 1
+  - questionnaire 2
+  - livrable 2
   - page css
   - wireframe et zoning
 - RIEGERT-BUISARD Nathanael
   - Page Économie
   - Planning
+  - Rétro-planning
   - page css
+  - représentations graphiques
 
 
 ## Contributeurs
