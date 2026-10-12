@@ -124,12 +124,12 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showimagereport=y
 
 **Auteur : RIEGERT-BUISARD Nathanael**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Feconomie.html))
 
 
 
 
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="doc/w3c_economie.png" style="width=400px" alt="capture ecran sur w3c">
 
 <br>
 
