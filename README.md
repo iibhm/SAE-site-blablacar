@@ -45,13 +45,17 @@ SAE-site-blablacar/
     ├── x.png
     ├── CO2.jpg
     ├── Graphique CA.png
-    ├── ecologie.jpg
+    ├── ecologie.jpeg
     ├── favico.ico
-    ├── histoire.jpg
-    ├── image_accueil.jpg
+    ├── histoire.jpeg
+    ├── image_accueil.png
     ├── image_centrale_economie.jpg
-    ├── organsisation.png
-    ├── economie.jpg
+    ├── organisation.png
+    ├── economie.jpeg
+    ├── economie_paysage.jpeg
+    ├── ecologie_paysage.jpeg
+    ├── histoire_paysage.jpeg
+    ├── organisation.jpeg
     └── web.png
 └── doc/
     ├──histoire_eco_concept_sevan.png
