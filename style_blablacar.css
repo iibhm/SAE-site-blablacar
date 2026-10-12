@@ -4,6 +4,11 @@ html, body {
   margin-left: 110px;
 }
 
+html, body {
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco",
+               "Helvetica Neue", Arial, sans-serif;
+}
+
 .sidebar {
   position: fixed;
   z-index: 999;
