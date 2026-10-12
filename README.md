@@ -12,7 +12,7 @@ Site web de présentation de l'entreprise française de covoiturage BlaBlaCar.
  
 Quentin TOURNIER (référent du groupe) : [Quentin TOURNIER](mailto:qtournie@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 Sevan VOVILIER : [Sevan VOVILIER](mailto:svovilie@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
-Basile DISPOT : [Basile DISPOT](mailto:LOGIN@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+Basile DISPOT : [Basile DISPOT](mailto:bdispot@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 Ibrahim SAOULI : [Ibrahim SAOULI](mailto:isaouli@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 Nathanael RIEGERT-BUISARD : [Nathanael RIEGERT-BUISARD](mailto:nriegert@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
@@ -94,7 +94,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 
 **Auteur : DISPOT Basile**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showimagereport=yes&doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Fecologie.html)
 
 
 
