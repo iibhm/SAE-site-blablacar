@@ -158,11 +158,6 @@ footer img {
 }
 
 .boutons_verticaux {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: stretch;
-  gap: 20px;
   width: 90%;
   max-width: 1000px;
   margin: 40px auto;
@@ -171,8 +166,8 @@ footer img {
 .bouton_économie {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  align-items: stretch;
+  justify-content: center;
+  align-items: flex-start;
   gap: 20px;
   width: 100%;
 }
@@ -181,7 +176,7 @@ footer img {
   display: block;
   flex: 1;
   min-width: 0;
-  height: 180px;
+  aspect-ratio: 9 / 16;
   overflow: hidden;
   border-radius: 12px;
 }
