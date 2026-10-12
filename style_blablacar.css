@@ -235,7 +235,7 @@ footer img {
   margin: 0;
   letter-spacing: 5px;
   text-shadow: 0 4px 15px rgba(0, 0, 0, 0.8);
-  font-color: white;
+  color: white;
 }
 
 .glass-panel {
