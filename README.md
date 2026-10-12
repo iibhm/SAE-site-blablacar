@@ -99,12 +99,12 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 
 
 
-<img src="doc/w3c_ecologie.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="doc/capture_ecologie.png" style="width=400px" alt="capture ecran sur w3c">
 
 
 <br>
 
-<img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
+<img src="doc/w3c_ecologie.png.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
 ### Page Organisation
 
