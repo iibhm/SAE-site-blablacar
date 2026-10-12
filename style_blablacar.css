@@ -17,8 +17,8 @@ html, body {
   width: 200px;
   height: 100vh;
   padding: 25px 15px 25px 5px;
-  background: #0071eb;
-  color: #f1f1f1;
+  background: #136367;
+  color: #F5F5F5;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -61,7 +61,7 @@ html, body {
 
 .menu-vertical a:hover,
 .menu-vertical a.active {
-  background-color: #005ec2;
+  background-color: #113438;
   font-weight: bold;
 }
 
@@ -70,8 +70,8 @@ footer {
   bottom: 0;
   padding-top: 10px;
   padding-bottom: 16px;
-  background: #0071eb;
-  color: #f1f1f1;
+  background: #136367;
+  color: #F5F5F5;
   font-family: sans-serif;
   width: 100%;
 }
@@ -190,8 +190,8 @@ footer img {
 
 .page-zoning {
   width: 100%;
-  background-color: #051315;
-  color: white;
+  background-color: #113438;
+  color: #113438;
   font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Arial, sans-serif;
   padding-bottom: 50px;
   min-height: 100vh;
@@ -238,7 +238,7 @@ footer img {
 }
 
 .glass-panel {
-  background: rgba(16, 53, 59, 0.85);
+  background: rgba(19, 99, 103, 0.5);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 20px;
@@ -256,7 +256,7 @@ footer img {
 }
 
 .glass-panel h3 {
-  color: #a3d9d6;
+  color: #E4D58C;
   font-size: 24px;
 }
 
@@ -306,7 +306,7 @@ footer img {
   margin-left: 5%;   
   position: relative;
   z-index: 15; 
-  background: rgba(16, 53, 59, 0.85); 
+  background: rgba(19, 99, 103, 0.5);
   backdrop-filter: blur(12px); 
   border: 1px solid rgba(255, 255, 255, 0.15); 
   padding: 50px;
@@ -327,7 +327,7 @@ footer img {
 }
 
 .glass-panel th {
-  color: #a3d9d6;
+  color: #E4D58C;
   width: 35%;
 }
 
@@ -398,7 +398,7 @@ footer img {
   margin-bottom: 50px;
   position: relative;
   z-index: 20; 
-  background: rgba(16, 53, 59, 0.85); 
+  background: rgba(19, 99, 103, 0.5);
   backdrop-filter: blur(12px); 
   border: 1px solid rgba(255, 255, 255, 0.15); 
   border-radius: 20px;
