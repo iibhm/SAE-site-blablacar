@@ -295,18 +295,20 @@ footer img {
 }
 
 .bloc-inverse .zoning-image-economie img{
-  width: 110%;
+  width: 130%;
   border-radius: 20px;
+  margin-top: 100px;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5); 
 }
 
 .bloc-inverse .zoning-texte-economie {
-  width: 50%;
-  margin-top: -160px; 
+  width: 60%;
+  left: 5%;
+  margin-top: -20px; 
   margin-left: 5%;   
   position: relative;
   z-index: 15; 
-  background: rgba(19, 99, 103, 0.5);
+  background: rgba(16, 53, 59, 0.85); 
   backdrop-filter: blur(12px); 
   border: 1px solid rgba(255, 255, 255, 0.15); 
   padding: 50px;
