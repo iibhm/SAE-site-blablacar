@@ -104,7 +104,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 
 <br>
 
-<img src="doc/w3c_ecologie.png.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
+<img src="doc/w3c_ecologie.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
 ### Page Organisation
 
