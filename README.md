@@ -70,15 +70,9 @@ SAE-site-blablacar/
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
-
-
 <img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/capture_1_ecoconcept.png)
-
-ou 
+<br>
 
 <img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
@@ -105,16 +99,12 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
-ou 
 
 <img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
 
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/capture_1_ecoconcept.png)
-
-ou 
+<br>
 
 <img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
@@ -125,16 +115,9 @@ ou
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showimagereport=yes&doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Forganisation.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/w3c_organisation.png)
-
-ou 
 
 <img src="doc/w3c_organisation.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/eco_organisation.png)
-
-ou 
+<br>
 
 <img src="doc/eco_organisation.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
@@ -146,16 +129,11 @@ ou
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
-ou 
 
 <img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'éco-conception](doc/capture_1_ecoconcept.png)
-
-ou 
+<br>
 
 <img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
