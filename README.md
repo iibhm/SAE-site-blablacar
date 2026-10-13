@@ -133,7 +133,7 @@ Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&s
 
 <br>
 
-<img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
+<img src="doc/ecoindex_economie.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'éco-conception">
 
 ## Répartition du travail
 
