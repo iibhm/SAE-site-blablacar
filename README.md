@@ -153,14 +153,14 @@ Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&s
 - SAOULI Ibrahim
 - RIEGERT-BUISARD Nathanael 
 
-### Développement site + Depot
+### Développement site + Dépôt
 
 - TOURNIER Quentin
   - Page d’accueil
   - page css
   - style tile, wireframe et zoning
   - questionnaire 2
-  - Depot des différents travaux
+  - Dépôt des différents travaux
 - VOVILIER Sevan
   - Page histoire
   - README
@@ -188,9 +188,8 @@ Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&s
 - RIEGERT-BUISARD Nathanael
   - Page Économie
   - Planning
-  - Rétro-planning
   - page css
-  - représentations graphiques
+  - représentation graphique
 
 
 ## Contributeurs
