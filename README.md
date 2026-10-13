@@ -67,6 +67,7 @@ SAE-site-blablacar/
     ├── ecoindex_economie.png
     ├── w3c_ecologie.png
     ├── w3c_economie.png
+    ├──participation.png
     └── w3c_organisation
 ```
 ## Développement Site Web et Validation des pages
@@ -194,4 +195,4 @@ Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&s
 
 ## Contributeurs
 
-![capture d'écran sur la contribution des membres du projet](doc/livrable2_contributors.png)
+![capture d'écran sur la contribution des membres du projet](doc/participation.png)
