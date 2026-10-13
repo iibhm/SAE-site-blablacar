@@ -58,8 +58,16 @@ SAE-site-blablacar/
     ├── organisation.jpeg
     └── web.png
 └── doc/
-    ├──histoire_eco_concept_sevan.png
-    ├──histoire_validator_w3_sevan.png
+    ├── histoire_eco_concept_sevan.png
+    ├── histoire_validator_w3_sevan.png
+    ├── capture_1_W3C.png
+    ├── capture_1_ecoconcept.png
+    ├── capture_ecologie.png
+    ├── eco_organisation.png
+    ├── ecoindex_economie.png
+    ├── w3c_ecologie.png
+    ├── w3c_economie.png
+    └── w3c_organisation
 ```
 ## Développement Site Web et Validation des pages
 
