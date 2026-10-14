@@ -133,7 +133,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showimagereport=y
 
 **Auteur : RIEGERT-BUISARD Nathanael**  
 
-Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Feconomie.html))
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fiibhm.github.io%2FSAE-site-blablacar%2Feconomie.html)
 
 
 
